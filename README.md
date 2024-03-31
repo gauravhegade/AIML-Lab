@@ -1,1 +1,1 @@
-# RVCE-CSE-5th-Semester-Lab-Programs
+# AIML Lab Programs for RVCE 5th Semester CSE
