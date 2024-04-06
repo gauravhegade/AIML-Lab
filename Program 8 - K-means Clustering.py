@@ -1,9 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from sklearn.datasets import load_iris
 
-np.random.seed(200)
-X = np.random.rand(500, 2)
-print(X[:5])
+X = load_iris().data
 
 
 class KMeansClusterer:
